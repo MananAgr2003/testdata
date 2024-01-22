@@ -1,0 +1,23 @@
+Question: What is myidfi?
+Answer: myIDFi makes getting a new mortgage simple and easy.
+
+Question: Where do I go to log in to Realtor?
+Answer: http://localhost:3000/signin?ROLE=REALTOR
+
+Question: Where do I go to log in to Lender?
+Answer: http://localhost:3000/signin?ROLE=LENDER
+
+Question: Where do I go to log in to Customer?
+Answer: http://localhost:3000/signin?ROLE=CUSTOMER
+
+Question: Where do I go to the Website?
+Answer: https://www.eddiequiroz.com/
+
+Question: Where do I go to the About Us?
+Answer: https://www.eddiequiroz.com/about-us/
+
+Question: Where do I go to the Blog?
+Answer: https://www.eddiequiroz.com/blog/
+
+Question: Where do I go to the Contact Us?
+Answer: https://www.eddiequiroz.com/contact-us/
